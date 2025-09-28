@@ -15,7 +15,7 @@ I believe theory is meaningless without experience. Over the years, I’ve learn
 
 ---
 
-## 💼 What I Do
+## 💼 Projects I Work On
 
 - Building APIs and applications for real-time trading and market data distribution.
 - Developing scalable cloud-native platforms for secure and reliable financial data delivery.
@@ -34,12 +34,33 @@ I believe theory is meaningless without experience. Over the years, I’ve learn
 
 ## 🛠️ Tech Stack
 
-- **Backend & Data:** Python, NodeJs, C# (.NET Core, ASP.NET), Redshift, Postgres
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="Redhat" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
+</p>
+
+- **Backend & Data:** Python, NodeJs, C# (.NET Core, ASP.NET), Redshift, Postgres, MySQL, TSQL, PLpgSQL
 - **Cloud & Infrastructure:** AWS, Terraform (HCL), Kubernetes, ECS, Datadog, CI/CD (Buildkite, Makefile, Shell)
 - **Frontend:** JavaScript (React, Node.js), SCSS, HTML, CSS
 - **DevOps & Security:** Open Policy Agent, Kyverno, SIEM/ELK, AppSec, IAM, incident management
 - **Other:** MacOS, Linux, PowerShell, Cordova, CodeIgniter
-  
+
 ---
 
 ## 🏆 Highlights & Community
@@ -85,7 +106,7 @@ I believe theory is meaningless without experience. Over the years, I’ve learn
 ## 📬 Connect
 
 - LinkedIn: [imjeffparedes](https://www.linkedin.com/in/imjeffparedes)
-- GitHub: [[pycon.python.ph](https://github.com/imjeffparedes)]([https://pycon.python.ph](https://github.com/imjeffparedes))
+- GitHub: [imjeffparedes](https://github.com/imjeffparedes)
 - Email: [imjeffparedes@gmail.com](mailto:imjeffparedes@gmail.com)
 
 ---
